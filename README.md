@@ -1,5 +1,7 @@
 <a href="https://lacework.com"><img src="https://techally-content.s3-us-west-1.amazonaws.com/public-content/lacework_logo_full.png" width="600"></a>
 
+*One of the Projects which I worked on during my time at Lacework*
+
 # Lacework Ops
 
 This repository contains projects from Lacework Ops. We find these useful and hope you do too!
